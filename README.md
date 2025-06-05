@@ -1,5 +1,9 @@
 <!-- README.md for Mukesh Kothamasu -->
 
+<p align="center">
+  <img src="./banner.png.png" alt="Mukesh Kothamasu Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#ff5733">Mukesh Kothamasu</span></h1>
 
 <p align="center">
@@ -42,7 +46,7 @@
 | 🧰 Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
 | 🌐 Web | HTML, CSS, React.js, Streamlit, Gradio |
 | 🛢️ Databases | MySQL |
-| 🧠 GenAI | HuggingFace, Langchain, CrewAI, Ollama, Whisper |
+| 🤖 GenAI | HuggingFace, Langchain, CrewAI, Ollama, Whisper |
 | 🔧 Tools | Git, GitHub, Google Colab, VS Code |
 
 ---
@@ -94,8 +98,6 @@
 - 🎖️ NCC Cadet (2023–2025), 3 leadership camps  
 - 🥈 Kabaddi Team – Inter-college runner-up  
 - 🥋 Karate – Orange Belt, Silver Medalist (AP State)
-
----
 
 ---
 
